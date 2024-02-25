@@ -1,1 +1,1 @@
-# VichislitelMetod
+# Prostye iter, NyutonMetod
